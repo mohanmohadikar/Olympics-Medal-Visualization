@@ -1,2 +1,2 @@
 # Olympics-Medal-Visualization
-Visualization of Summer Olympic Dataset (1896-2014).
+Visualization of Summer Olympics Dataset (1896-2014).
